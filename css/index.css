@@ -1,2 +1,26 @@
 /* ESTILOS CSS */
 
+#home #carousel-news-movies{
+	height: 60vh;
+
+}
+
+#home .list-news-movies{
+	height: 100vh;
+	
+}
+
+#home .carousel-item{
+	height: 100%;
+	background-repeat: no-repeat;
+	background-position: center center;
+	background-size: cover;
+	
+}
+
+#home .carousel-caption {
+
+	background-color: rgba(0,0,0,0.7);
+	padding: 10px 20px;
+
+	}
